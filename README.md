@@ -1,7 +1,7 @@
 <div>
  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="200" heigh"200"> 
 
-  <h1> 📸 Cópia - Instagram</h1>
+  <h1> 📸 Instagram - React Native</h1>
   <p align="left"> Recriação da interface do Instagram feito em React Native, tendo como objetivo treinar algumas funcionalidades ensinadas durante as aulas de PAM II. Usamos o Expo para visualizar o projeto, por ser uma plataforma mais fácil e prática de usar.</p>
 <div>
 
@@ -23,7 +23,7 @@ Fizemos no total 5 telas, sendo elas de cadastro, login, feed, explorer e perfil
 
 <br> 
 
-## 📎 Desenvolvedores
+## 💻 Desenvolvedores
 
 ‣ 🙅🏻‍♀️ [Marina Liz](https://github.com/m-arina)
 <br>
